@@ -32,7 +32,8 @@
 <img src='https://www.freecodecamp.org/news/content/images/2020/10/gcp.png' width="70" height="40">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png' width="50" height="40">
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdataanalyst-viz&show_icons=true&locale=en&layout=compact" color='black' alt="jjdataanalyst-viz" /></p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjdataanalyst-viz&langs_count=8&theme=transparent)
+![Jakub Jedrych GitHub stats](https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&locale=en" color='black' alt="jjdataanalyst-viz" /></p>
+
+
