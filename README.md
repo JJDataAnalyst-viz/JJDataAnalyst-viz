@@ -33,6 +33,6 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png' width="50" height="40">
 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdataanalyst-viz&show_icons=true&locale=en&layout=compact" alt="jjdataanalyst-viz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdataanalyst-viz&show_icons=true&locale=en&layout=compact" color='black' alt="jjdataanalyst-viz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&locale=en" alt="jjdataanalyst-viz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&locale=en" color='black' alt="jjdataanalyst-viz" /></p>
