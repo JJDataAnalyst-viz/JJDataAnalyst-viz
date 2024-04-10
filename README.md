@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **kubajedrych100@gmail.com**
 
+- My porfolio is in progress but do not hesitate to check my code Python/SQL from my projects
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jakub jędrych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub jędrych" height="30" width="40" /></a>
