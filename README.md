@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kubajedrych100@gmail.com**
 
-- My porfolio is in progress but do not hesitate to check my code Python/SQL from my projects
+- 😳 My porfolio is in progress but do not hesitate to check my code Python/SQL from my projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
