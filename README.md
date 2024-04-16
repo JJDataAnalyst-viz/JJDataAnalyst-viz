@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **ML, Big Data, Python, SQL**
 
+- 👨🏻‍🏫 Check my [website portoflio](https://jjdataanalyst-viz.github.io/JJDataAnalyst-viz.io/)
+
 - 💬 Ask me about **Data analysis**
 
 - 📫 How to reach me **kubajedrych100@gmail.com**
