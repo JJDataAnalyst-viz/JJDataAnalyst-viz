@@ -38,8 +38,8 @@
 
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdataanalyst-viz&langs_&layout=compact&theme=transparent" height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&theme=transparent" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdataanalyst-viz&langs_&layout=compact&theme=transparent" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&theme=transparent" height="180" >
 </div>
 
 
