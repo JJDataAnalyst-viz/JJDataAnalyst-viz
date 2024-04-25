@@ -40,8 +40,10 @@
 <img src='https://www.svgrepo.com/show/354242/qlik.svg' width="40" height="40">
 <img src='https://www.svgrepo.com/show/354011/looker.svg' width="60" height="60">
  <img src='https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png' width='30'>
-<img src='https://www.freecodecamp.org/news/content/images/2020/10/gcp.png' width="70" height="40">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png' width="50" height="40">
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png' width='160'>
+<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png' width='30'>
+<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png' width='110'>
 
 
   <div style="display: flex; justify-content: space-between;">
