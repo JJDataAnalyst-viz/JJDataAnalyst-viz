@@ -44,6 +44,7 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png' width='160'>
 <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png' width='30'>
 <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png' width='110'>
+<img src='https://cdn.iconscout.com/icon/free/png-256/free-opensuse-282477.png' width='60'>
 
 
   <div style="display: flex; justify-content: space-between;">
