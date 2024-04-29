@@ -16,25 +16,26 @@
 - 😳 My porfolio is in progress but do not hesitate to check my code Python/SQL from my projects
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/jakub jędrych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub jędrych" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
+<div>
+<div style="display: flex;"><p>
 <h4 align="left">RDBMS:</h4>
-<p align="left"> 
+ 
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- <h4 >Programming Languages:</h4>
- <p align="left"> 
+ </div><div style="display: flex;">
+<h4 >Programming Languages:</h4>
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png' width="45" height="35">
  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" width='35'>
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" width='35'>
-  <h4 align="left">Data EDA/Cleaning Tools:</h4>
+</div></div>
+  <h4 align="left">Data EDA/Cleaning Tools:</h4> </p>
  <p align="left"> 
   <img src='https://camo.githubusercontent.com/b844d1fc21947ee1b38741aed253d6202d5132d0abe77d555ca9b1e914518b70/68747470733a2f2f7261776769742e636f6d2f746865636f746e652f7371756172652d66696c652d69636f6e732f6d61737465722f69636f6e732f657863656c2e737667' width="40" height="40">
  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
