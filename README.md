@@ -56,6 +56,7 @@
 <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png' width='100'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="60">
+  <img src="https://www.tidymodels.org/images/tidymodels.png" width="37" height='40'>
     <h4 align="left">Linux Distros:</h4>
    <p align="left"> 
 <img src='https://cdn.iconscout.com/icon/free/png-256/free-opensuse-282477.png' width='60'>
