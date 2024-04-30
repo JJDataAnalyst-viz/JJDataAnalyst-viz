@@ -62,7 +62,9 @@
   <img src='https://pbs.twimg.com/media/DcNg-aiV0AAXh-k.png'  width="80">
     <h4 align="left">Linux Distros:</h4>
    <p align="left"> 
-<img src='https://cdn.iconscout.com/icon/free/png-256/free-opensuse-282477.png' width='60'>
+<img src='https://cdn.iconscout.com/icon/free/png-256/free-opensuse-282477.png' width='60' >
+ <img src='https://static-00.iconduck.com/assets.00/centos-icon-icon-2048x2048-ua0kcc83.png' width='50' height='50'>
+
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdataanalyst-viz&langs_&layout=compact&theme=transparent" height="180">
     <img src="https://github-readme-stats.vercel.app/api?username=jjdataanalyst-viz&show_icons=true&theme=transparent" height="180" >
