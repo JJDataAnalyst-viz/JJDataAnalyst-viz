@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjdataanalyst-viz&label=Profile%20views&color=0e75b6&style=flat" alt="jjdataanalyst-viz" /> </p>
 
-- 🌱 I’m currently learning **ML, Big Data, Web-scraping, Deep Learning, Dash, Streamlit**
+- 🌱 I’m currently learning **ML, Big Data, Web-scraping, Deep Learning, Dash, Streamlit** 
 
 - 👨🏻‍🏫 Check my [website portoflio](https://jjdataanalyst-viz.github.io/JJDataAnalyst-viz.io/)
 
