@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm  Jakub</h1>           
 <h3 align="center">A passionate data analyst from Poland</h3>          
 <img align='right' alt='analysis' width='400'    src='https://64.media.tumblr.com/cf08fce43c7b1cffc9c43a176bae44db/d6887bd64b7fea30-80/s500x750/c4e4239ff3b44f6cb39ac7b74efc7a3ec3c02ef2.gif'>
-   
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjdataanalyst-viz&label=Profile%20views&color=0e75b6&style=flat" alt="jjdataanalyst-viz" /> </p>
 
 - 🌱 I’m currently learning **ML, Big Data, Web-scraping, Deep Learning, Dash, Streamlit** 
