@@ -10,7 +10,7 @@
 - 👨🏻‍🏫 Check my [website portoflio](https://jjdataanalyst-viz.github.io/JJDataAnalyst-viz.io/)
 
 - 💬 Ask me about **Data analysis**
-
+ 
 - 📫 How to reach me **kubajedrych100@gmail.com**
 
 - 😳 My porfolio is in progress but do not hesitate to check my code Python/SQL from my projects
