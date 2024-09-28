@@ -68,7 +68,7 @@
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdataanalyst-viz&langs_&layout=compact&theme=transparent" height="180" >
     <img src="https://github-readme-streak-stats.herokuapp.com?user=%20JJDataAnalyst-viz&theme=github-dark-blue" height="180" >
-</div>
+</div> 
 
 
 
