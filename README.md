@@ -1,4 +1,4 @@
-![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
+![MasterHead]([https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif](https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966))
 <h1 align="center">Hi 👋, I'm  Jakub</h1>
 <h3 align="center">A passionate data analyst from Poland</h3> 
 <img align='right' alt='analysis' width='400' src='https://64.media.tumblr.com/cf08fce43c7b1cffc9c43a176bae44db/d6887bd64b7fea30-80/s500x750/c4e4239ff3b44f6cb39ac7b74efc7a3ec3c02ef2.gif'>       
