@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png' width='40'>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://camo.githubusercontent.com/73153422c5ce65431753d74b64af7a4bbd85cfed9425556ca113695d0bd4b64c/68747470733a2f2f7261776769742e636f6d2f746865636f746e652f7371756172652d66696c652d69636f6e732f6d61737465722f69636f6e732f706f776572706f696e742e737667' width="40" height="40">
+
   <img src='https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png' width='30'>
  <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt="Tableau" width="40" height="40" >
  <img src="https://rstudio.github.io/shiny/reference/figures/logo.png" width='35'>
